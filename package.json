@@ -1,0 +1,6 @@
+{
+  "name": "agent-elna-monitor-de-precios-de-criptomo-morxqlz2",
+  "version": "1.0.0",
+  "description": "Proyecto de Elna [Gen28]: monitor de precios de criptomonedas con alertas",
+  "main": "index.js"
+}
